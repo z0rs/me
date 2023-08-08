@@ -1,0 +1,24 @@
+title: Eno Leriand
+url: "https://z0rs.github.io/research/"
+baseurl: "/research/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: No
+#footer_url: "https://github.com/research"
+#footer_text: "Eno Leriand"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+# - name: "About"
+#   link: "/research/"
+ - name: "Resume"
+   link: "Myresume.pdf"
+ - name: "Contact"
+   link: "contact"
