@@ -7,9 +7,9 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: No
-#footer_url: "https://github.com/research"
-#footer_text: "Eno Leriand"
+footer: yes
+footer_url: "https://3n0.us"
+footer_text: "Eno Leriand"
 
 sass:
     style: compressed
