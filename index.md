@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="76135196.jpeg">
 
 I'm a dedicated Offensive Security Engineer driven by a passion for Red Team attacks and securing digital landscapes. My journey in cybersecurity is marked by a hunger for knowledge and a commitment to anticipate emerging threats.
 
