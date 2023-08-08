@@ -3,21 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:0x@3n0.us)
+* Email: [0x@3n0.us](mailto:0x@3n0.us)
 
 * Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
 
 ## Social
 
