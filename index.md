@@ -37,10 +37,11 @@ I've pioneered projects, including developing a tailored Linux distribution for 
    
 Year | Award | Category
 -----|-------|--------
-2023 | CVE-2022-36537  | Why It's Not Worth Goading Us On A Friday
 2023 | CVE-2023-2825 | Adobe Commerce (Magento)
-2021 | CVE-2022-24086 | Return Of The Text Interpolation
+2022 | CVE-2022-36537  | Why It's Not Worth Goading Us On A Friday
+2022 | CVE-2022-24086 | Return Of The Text Interpolation
 
 #### Technical Skills 
 Proficient in Penetration Testing, Cyber Threat Intelligence, Social Engineering, and a multitude of other security disciplines. My programming skills span Bash, C/C++, GOlang, Python, Java, ensuring I can build effective cybersecurity tools.
 
+:)
