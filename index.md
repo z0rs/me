@@ -17,7 +17,7 @@ I'm active in Capture The Flag challenges and cutting-edge Security Research, ke
 
 #### I am currently involved with:
 - [STAR Labs SG Pte. Ltd.](https://starlabs.sg/) as Security Researcher
-- [WatchTowr Labs Pte. Ltd.](https://watchtowr.com/) as Red Team Analyst
+- [WatchTowr Labs Pte. Ltd.](https://watchtowr.com/) as Principal Red Team Analyst
 - [Yogosha](https://www.yogosha.com/) as Researcher
 - [Synack, Inc.](https://www.synack.com/red-team/) as Red team
 
