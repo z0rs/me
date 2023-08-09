@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="76135196.jpeg" style="margin: 24px 0 0 15px;">
+<img class="profile-picture" src="76135196.jpeg" style="margin: 30px 0 0 15px;">
 
 Hi, Im Eno :)
 
