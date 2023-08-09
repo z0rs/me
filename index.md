@@ -5,6 +5,7 @@ layout: default
 <img class="profile-picture" src="76135196.jpeg">
 
 Hi, Im Eno :)
+
 I'm a dedicated Offensive Security Engineer driven by a passion for Red Team attacks and securing digital landscapes. My journey in cybersecurity is marked by a hunger for knowledge and a commitment to anticipate emerging threats.
 
 ## Interest
