@@ -6,10 +6,10 @@ layout: default
 
 Hi, Im Eno :)
 
-I'm a dedicated Offensive Security Engineer driven by a passion for Red Team attacks and securing digital landscapes. My journey in cybersecurity is marked by a hunger for knowledge and a commitment to anticipate emerging threats.
+As a dedicated Offensive Security Engineer driven by a passion for Red Team attacks and securing the digital landscape. My journey in cybersecurity is marked by a hunger for knowledge and a commitment to anticipate emerging threats.
 
-#### Interest
-I'm active in Capture The Flag challenges and cutting-edge Security Research, keeping me current in the dynamic cybersecurity landscape
+#### My Interest
+problmes solving in Capture The Flag challenges and Security vulnerability Research, keeping me up-to-date in the dynamic cybersecurity landscape
 - Gnu/Linux
 - System Administration
 - Kernel and/or Binary Exploitation
@@ -22,7 +22,7 @@ I'm active in Capture The Flag challenges and cutting-edge Security Research, ke
 - [Synack, Inc.](https://www.synack.com/red-team/) as Red team
 
 #### Projects & Findings
-I've pioneered projects, including developing a tailored Linux distribution for security research. I've discovered critical vulnerabilities like a Cross-Site Scripting (XSS) flaw in cPanel and an unpatched XSS vulnerability in Fortinet FortiMail versions.
+Pioneered various projects, including developing a customized Linux distribution for security research. Work closely with the security team to find critical vulnerabilities.
 
 #### Publications
 
@@ -45,3 +45,4 @@ Year | Award | Category
 Proficient in Penetration Testing, Cyber Threat Intelligence, Social Engineering, and a multitude of other security disciplines. My programming skills span Bash, C/C++, GOlang, Python, Java, ensuring I can build effective cybersecurity tools.
 
 :)
+.
