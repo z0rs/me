@@ -21,7 +21,7 @@ Capture The Flag challenges and Security vulnerability Research, keeping me up-t
 #### I am currently involved with:
 - [Yogosha](https://www.yogosha.com/) as Researcher
   - Jan 2022 · Present
-   1. perform security analyst, and report findings Finding vulnerabilities in Web app, Mobile app, API & Network to the team. collaborate with researchers and continue to develop expertise in cybersecurity
+   1. Findings vulnerabilities in Web app, Mobile app, API & Network.
    2. Reported Various vulnerabilities from Critical to low level.
 - [Synack, Inc.](https://www.synack.com/red-team/) as Security Researcher
   - Mar 2020 · Present
