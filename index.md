@@ -4,6 +4,8 @@ layout: default
 
 <img class="profile-picture" src="76135196.jpeg" style="margin: 30px 0 0 15px;">
 
+### Whoami
+
 I'm Eno, a Cybersecurity Researcher dedicated to constant learning and improvement. I specialize in uncovering system vulnerabilities and conducting thorough security assessments based on industry standards like OWASP and NIST. My focus is on delivering effective security solutions for critical infrastructure.
 
 #### My Interest
