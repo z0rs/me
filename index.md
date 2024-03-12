@@ -9,7 +9,7 @@ layout: default
 I'm Eno, a Cybersecurity Researcher dedicated to constant learning and improvement. I specialize in uncovering system vulnerabilities and conducting thorough security assessments based on industry standards like OWASP and NIST. My focus is on delivering effective security solutions for critical infrastructure.
 
 #### My Interest
-problmes solving in Capture The Flag challenges and Security vulnerability Research, keeping me up-to-date in the dynamic cybersecurity landscape
+Capture The Flag challenges and Security vulnerability Research, keeping me up-to-date in the dynamic cybersecurity landscape
 - **GNU/Linux**: Expertise in GNU/Linux OS for research and cybersecurity 
 - **Network Security**: Firewall, IDS/IPS, and network security technologies understanding.
 - **Programming**: Bash, C/C++, Python and GO for cybersecurity tool development and automation.
