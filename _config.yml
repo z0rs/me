@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: no
-footer_url: "https://3n0.us"
+footer_url: "https://z0rs.github.io"
 footer_text: "Eno Leriand"
 
 sass:
@@ -18,7 +18,7 @@ sass:
 nav:
 # - name: "About"
 #   link: "/research/"
- - name: "Resume"
-   link: "Myresume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "LinkeIn"
+   link: "https://www.linkedin.com/in/enoleriand/"
+ - name: "Twitter"
+   link: "https://twitter.com/0x3n0"
