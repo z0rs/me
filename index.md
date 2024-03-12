@@ -4,9 +4,8 @@ layout: default
 
 <img class="profile-picture" src="76135196.jpeg" style="margin: 30px 0 0 15px;">
 
-Hi, Im Eno :)
-
-As a dedicated Offensive Security Engineer driven by a passion for Red Team attacks and securing the digital landscape. My journey in cybersecurity is marked by a hunger for knowledge and a commitment to anticipate emerging threats.
+I'm Eno, my journey in Cyber ​​Security is characterized by a thirst for knowledge and a Commitment to self-improvement and continuous professional development through in-house experiences
+updated on the latest cybersecurity trends, tools and techniques. I am a Cyber ​​Security Researcher with a passion for uncovering system vulnerabilities, conducting security assessments against industry standards such as OWASP, NIST etc. Provides detailed reports on effective security solutions for critical infrastructure.
 
 #### My Interest
 problmes solving in Capture The Flag challenges and Security vulnerability Research, keeping me up-to-date in the dynamic cybersecurity landscape
@@ -16,10 +15,12 @@ problmes solving in Capture The Flag challenges and Security vulnerability Resea
 - Information and/or Network Security
 
 #### I am currently involved with:
-- [STAR Labs SG Pte. Ltd.](https://starlabs.sg/) as Security Researcher
-- [WatchTowr Labs Pte. Ltd.](https://watchtowr.com/) as Principal Red Team Analyst
 - [Yogosha](https://www.yogosha.com/) as Researcher
-- [Synack, Inc.](https://www.synack.com/red-team/) as Red team
+   1. perform security analyst, and report findings Finding vulnerabilities in Web app, Mobile app, API & Network to the team. collaborate with researchers and continue to develop expertise in cybersecurity
+   2. Reported Various vulnerabilities from Critical to low level.
+- [Synack, Inc.](https://www.synack.com/red-team/) as Security Researcher, Redteam
+   1. identify vulnerabilitiy based on industry standards such as OWASP and NIST, Application of security integration through Threat Modeling and Risk Management.
+   2. Search for high-impact vulnerabilities without time or scope limitations. Collaboration with security experts for tactical innovation. Offensive security research, high-level tactics testing.
 
 #### Projects & Findings
 Pioneered various projects, including developing a customized Linux distribution for security research. Work closely with the security team to find critical vulnerabilities.
@@ -35,11 +36,11 @@ Pioneered various projects, including developing a customized Linux distribution
 7. [Why It's Not Worth Goading Us On A Friday - CVE-2022-36537 At Scale](https://labs.watchtowr.com/why-its-not-worth-goading-us-on-a-friday-cve-2022-36537-at-scale/)
 8. [Text4Shell++ - Where There’s Smoke, There’s Fire](https://labs.watchtowr.com/text4shell-where-theres-smoke-theres-fire/)
    
-Year | Award | Category
------|-------|--------
-2023 | CVE-2023-2825 | Adobe Commerce (Magento)
-2022 | CVE-2022-36537  | Why It's Not Worth Goading Us On A Friday
-2022 | CVE-2022-24086 | Return Of The Text Interpolation
+Certified | Organizer | Date | Credential
+-----|-------|--------|--------
+Certified Appsec Practitioner (CAP) | The SecOps Group | Jan 2023 | 6901603
+Digital Forensic (DFE) | EC-Council Learning  | Dec 2022 | 2233720
+Certified Red Team Ops (CRTO) | Zero-Point Security Ltd | Sep 2021 | 5jOwgGy
 
 #### Technical Skills 
 Proficient in Penetration Testing, Cyber Threat Intelligence, Social Engineering, and a multitude of other security disciplines. My programming skills span Bash, C/C++, GOlang, Python, Java, ensuring I can build effective cybersecurity tools.
