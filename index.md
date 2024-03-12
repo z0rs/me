@@ -49,16 +49,13 @@ control panel. Promptly informed customers & performed original research
 4. [Server Side Template Injection via Twig Security Extension](https://z0rs.github.io/blog/Server-Side-Template-Injection/)
 5. [ProjeQtOr - <10.2.2 Direct Object Injection Vulnerability](https://labs.watchtowr.com/projeqtor-10-2-2-direct-object-injection-vulnerability/)
    
-Certified | Organizer | Date | Credential
------|-------|--------|--------
-Certified Appsec Practitioner (CAP) | The SecOps Group | Jan 2023 | 6901603
-Digital Forensic (DFE) | EC-Council Learning  | Dec 2022 | 2233720
-Certified Red Team Ops (CRTO) | Zero-Point Security Ltd | Sep 2021 | 5jOwgGy
-Certified Network Security Specialist (CNSS) | ICSI (International CyberSecurity Institute), UK |  Expired Oct 2033 | 17549044
+Certified | Organization | Date
+-----|-------|--------
+[Appsec Practitioner (CAP)](https://pbs.twimg.com/media/FleEzr8aEAIZ9TB?format=png&name=900x900) | The SecOps Group | Jan 2023
+[Digital Forensic (DFE)](https://pbs.twimg.com/media/FlXICtpaAAEP1Fd?format=jpg&name=large) | EC-Council Learning  | Dec 2022
+[Red Team Ops (CRTO)](https://eu.badgr.com/public/assertions/6NzBh3joT9mvixgtJMf24Q) | Zero-Point Security Ltd | Sep 2021
+[Network Security Specialist (CNSS)](https://www.credential.net/fe7310c6-86d4-42f2-9f30-5e1f4360b9c4) | International CyberSecurity Institute | Expired Oct 2023
 
 :}
-.
-.
-.
-.
-.
+;)
+:]
