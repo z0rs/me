@@ -54,7 +54,7 @@ Certified | Organizer | Date | Credential
 Certified Appsec Practitioner (CAP) | The SecOps Group | Jan 2023 | 6901603
 Digital Forensic (DFE) | EC-Council Learning  | Dec 2022 | 2233720
 Certified Red Team Ops (CRTO) | Zero-Point Security Ltd | Sep 2021 | 5jOwgGy
-Certified Network Security Specialist (CNSS) | ICSI (International CyberSecurity Institute), UK |  Expires Oct 2033 | 17549044
+Certified Network Security Specialist (CNSS) | ICSI (International CyberSecurity Institute), UK |  Expired Oct 2033 | 17549044
 
 :}
 .
