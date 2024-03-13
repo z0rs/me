@@ -51,6 +51,7 @@ control panel. Promptly informed customers & performed original research
    
 Certified | Organization | Date
 -----|-------|--------
+[API Penetration Testing](https://www.credly.com/badges/329f7824-8100-4175-bd91-cc7f69d672dc) | APIsec University | Mar 2023
 [Appsec Practitioner (CAP)](https://pbs.twimg.com/media/FleEzr8aEAIZ9TB?format=png&name=900x900) | The SecOps Group | Jan 2023
 [Digital Forensic (DFE)](https://pbs.twimg.com/media/FlXICtpaAAEP1Fd?format=jpg&name=large) | EC-Council Learning  | Dec 2022
 [Red Team Ops (CRTO)](https://eu.badgr.com/public/assertions/6NzBh3joT9mvixgtJMf24Q) | Zero-Point Security Ltd | Sep 2021
