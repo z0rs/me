@@ -66,14 +66,7 @@ control panel. Promptly informed customers & performed original research
 3. [GitLab Arbitrary File Read CVE-2023-2825 Analysis](https://labs.watchtowr.com/gitlab-arbitrary-file-read-gitlab-cve-2023-2825-analysis/) GitLab CE/EE only on version 16.0.0. Malicious users without authentication can exploit the path traversal vulnerability
 4. [Server Side Template Injection via Twig Security Extension](https://z0rs.github.io/blog/Server-Side-Template-Injection/) SecurityExtension was introduced in commit 89d1ea1 to address CVE-2023-22731
 5. [ProjeQtOr - <10.2.2 Direct Object Injection Vulnerability](https://labs.watchtowr.com/projeqtor-10-2-2-direct-object-injection-vulnerability/) A Direct Object Injection vulnerability occurs when unvalidated user input is used to create objects directly in application code.
-   
-Certified | Organization | Date
------|-------|--------
-[API Penetration Testing](https://www.credly.com/badges/329f7824-8100-4175-bd91-cc7f69d672dc) | APIsec University | Mar 2024
-[Appsec Practitioner (CAP)](https://pbs.twimg.com/media/FleEzr8aEAIZ9TB?format=png&name=900x900) | The SecOps Group | Jan 2023
-[Digital Forensic (DFE)](https://pbs.twimg.com/media/FlXICtpaAAEP1Fd?format=jpg&name=large) | EC-Council Learning  | Dec 2022
-[Red Team Ops (CRTO)](https://eu.badgr.com/public/assertions/6NzBh3joT9mvixgtJMf24Q) | Zero-Point Security Ltd | Sep 2021
-[Network Security Specialist (CNSS)](https://www.credential.net/fe7310c6-86d4-42f2-9f30-5e1f4360b9c4) | International CyberSecurity Institute | Expired Oct 2023
+
 
 :}
 ;)
