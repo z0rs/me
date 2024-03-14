@@ -28,15 +28,18 @@ Capture The Flag challenges and Security vulnerability Research, keeping me up-t
    1. identify vulnerabilitiy based on industry standards such as OWASP and NIST, Application of security integration through Threat Modeling and Risk Management.
    2. Search for high-impact vulnerabilities without time or scope limitations. Collaboration with security experts for tactical innovation. Offensive security research, high-level tactics testing.
 
-### Honors & Awards
+### Honors & awards
 
-- **HackerOne Program**
-  - [CVE-2023-29489](https://nvd.nist.gov/vuln/detail/CVE-2023-29489) · Apr 2023
-    Discovered critical XSS vulnerability in cPanel, a widely-used web hosting control panel. Promptly informed customers & performed original research.
+- HackerOne Program
+  - Issued by [CVE-2023-29489](https://nvd.nist.gov/vuln/detail/CVE-2023-29489) · Apr 2023
+  
+  Discovered critical XSS vulnerability in cPanel, a widely-used web hosting
+control panel. Promptly informed customers & performed original research
 
-- **State Cyber and Code Agency**
-  - [CVE-2021-43062](https://nvd.nist.gov/vuln/detail/CVE-2021-43062) · Jan 2022
-    An improper neutralization of input during web page generation vulnerability ('Cross-site Scripting') [CWE-79] in FortiMail may allow an unauthenticated attacker to perform an XSS attack via crafted HTTP GET requests to the FortiGuard URI protection service.
+- State Cyber and Code Agency
+  - Issued by [CVE-2021-43062](https://nvd.nist.gov/vuln/detail/CVE-2021-43062) · Jan 2022
+  
+  An improper neutralization of input during web page generation vulnerability ('Cross-site Scripting') [CWE-79] in FortiMail may allow an unauthenticated attacker to perform an XSS attack via crafted HTTP GET requests to the FortiGuard URI protection service
 
 ### Certifications
 
