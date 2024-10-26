@@ -6,7 +6,7 @@ layout: default
 
 ### Whoami
 
-I am Eno, a dedicated researcher in Cybersecurity, with a strong focus on identifying and mitigating system vulnerabilities. My expertise centers on conducting comprehensive security assessments in alignment with industry standards such as OWASP and NIST, aiming to provide robust solutions for safeguarding critical infrastructure. My work reflects a commitment to continuous learning and the development of practical, research-driven security practices.
+I am Eno, a cybersecurity researcher focused on identifying and resolving system vulnerabilities. My work centers on security assessments based on OWASP and NIST standards to protect critical infrastructure, driven by ongoing learning and research-driven practices.
 
 #### My Interest
 
@@ -64,5 +64,3 @@ control panel. Promptly informed customers & performed original research
 3. [GitLab Arbitrary File Read CVE-2023-2825 Analysis](https://labs.watchtowr.com/gitlab-arbitrary-file-read-gitlab-cve-2023-2825-analysis/) GitLab CE/EE only on version 16.0.0. Malicious users without authentication can exploit the path traversal vulnerability
 4. [Server Side Template Injection via Twig Security Extension](https://z0rs.github.io/blog/Server-Side-Template-Injection/) SecurityExtension was introduced in commit 89d1ea1 to address CVE-2023-22731
 5. [ProjeQtOr - <10.2.2 Direct Object Injection Vulnerability](https://labs.watchtowr.com/projeqtor-10-2-2-direct-object-injection-vulnerability/) A Direct Object Injection vulnerability occurs when unvalidated user input is used to create objects directly in application code.
-
----
