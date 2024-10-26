@@ -3,13 +3,12 @@ url: "https://z0rs.github.io"
 baseurl: "/me/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://z0rs.github.io"
-footer_text: "Eno Leriand"
+footer_text: "© 2024 Eno. All rights reserved."
 
 sass:
     style: compressed
