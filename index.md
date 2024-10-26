@@ -6,7 +6,7 @@ layout: default
 
 ### Whoami
 
-I am Eno, a cybersecurity researcher focused on identifying and resolving system vulnerabilities. My work centers on security assessments based on OWASP and NIST standards to protect critical infrastructure, driven by ongoing learning and research-driven practices.
+Researcher and engineer focused on identifying and resolving system vulnerabilities. My work centers on security assessments against OWASP and NIST standards to protect critical infrastructure, driven by continuous learning and research-based practices.
 
 #### My Interest
 
