@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://z0rs.github.io"
 footer_text: "Eno Leriand"
 
