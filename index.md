@@ -37,7 +37,7 @@ control panel. Promptly informed customers & performed original research
 1. [Security Posture Assessment](https://z0rs.github.io/articles/Security-Posture-Assessment/) CVSS 3.0 and 3.1 are used to assess the security risk of the target system.
 2. [GitLab Arbitrary File Read CVE-2023-2825 Analysis](https://labs.watchtowr.com/gitlab-arbitrary-file-read-gitlab-cve-2023-2825-analysis/) GitLab CE/EE only on version 16.0.0. Malicious users without authentication can exploit the path traversal vulnerability
 3. [Server Side Template Injection via Twig Security Extension](https://z0rs.github.io/blog/Server-Side-Template-Injection/) SecurityExtension was introduced in commit 89d1ea1 to address CVE-2023-22731
-4. [ProjeQtOr - <10.2.2 Direct Object Injection Vulnerability](https://z0rs.github.io/projeqtor-10-2-2-direct-object-injection-vulnerability/) A Direct Object Injection vulnerability occurs when unvalidated user input is used to create objects directly in application code.
+4. [ProjeQtOr - <10.2.2 Direct Object Injection Vulnerability](https://z0rs.github.io/articles/projeqtor-10-2-2-direct-object-injection-vulnerability/) A Direct Object Injection vulnerability occurs when unvalidated user input is used to create objects directly in application code.
 
 ### Certifications
 
